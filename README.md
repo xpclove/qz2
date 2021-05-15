@@ -1,4 +1,4 @@
-# qz2 Quantum simulation of Z2 gauge theory and its application in quantum algorithm of graph theory
+# qz2 : Quantum simulation of Z2 gauge theory and its application in quantum algorithm of graph theory
 
 Chinese: Z2格点规范理论的量子模拟及其在图论量子算法中的应用
 
