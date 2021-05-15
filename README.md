@@ -14,3 +14,8 @@ Main content:
             2. Topological quantum transition of Z2 gauge theory with the change of lattice topology
             3. Application of Z2 gauge theory simulation in algorithm in Hamilton cycle problem（HCP) of graph theory
             4. QBLAS：A quantum basic linear algebra and simulation library
+            
+Abstract:
+
+！[image](res/fig/paper_abastract_en_1.jpg)
+！[image](res/fig/paper_abastract_en_2.jpg)
