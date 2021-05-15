@@ -17,6 +17,6 @@ Main content:
             
 Abstract:
 
-![image](https://github.com/xpclove/qz2/raw/master/res/fig/paper_abastract_en_1.jpg)
+![image](res/fig/paper_abastract_en_1.jpg)
 
-![image](https://github.com/xpclove/qz2/raw/master/res/fig/paper_abastract_en_2.jpg)
+![image](res/fig/paper_abastract_en_2.jpg)
