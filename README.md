@@ -7,22 +7,21 @@ Ref：Ph.D. Dissertation
 
 Download Link: [PDF](doc/Z2_DocPaper.pdf)
 
-# Main content:
+## Main content:
 
             1. Quantum simulation of Z2 gauge theory
             2. Topological quantum transition of Z2 gauge theory with the change of lattice topology
             3. Application of Z2 gauge theory simulation in algorithm in Hamilton cycle problem（HCP) of graph theory
             4. QBLAS：A quantum basic linear algebra and simulation library
             
-# Abstract:
+## Abstract:
 
 ![image](res/fig/paper_abastract_en_1.jpg)
 
 ![image](res/fig/paper_abastract_en_2.jpg)
 
 
-
-# Abstract-Tex:
+## Abstract(tex):
 
    The chapter 1 describes the research background:$Z_2$ lattice gauge theory and the main research content of this paper. The $Z_2$ lattice guage theory is deeply related to gauge field theory of particle physics, topological quantum phase transition of condensed matter physics, long-range entanglement and topological quantum computation of quantum information, algorithm problem of graph theory, etc. The quantum simulation research of this theory is expected to promote the development of many fields.
 
