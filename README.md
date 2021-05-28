@@ -5,7 +5,7 @@ Chinese title: Z2格点规范理论的量子模拟及其在图论量子算法中
 Ref：Ph.D. Dissertation 
       [《Quantum simulation of Z2 gauge theory and its application in quantum algorithm of graph theory》](doc/Z2_DocPaper.pdf).  Xiaopeng Cui. Fudan University. 2020-8   
 
-Download Link: [PDF](doc/Z2_DocPaper.pdf)
+Download Link: [PDF](doc/Quantum simulation of Z2 gauge theory and its application in quantum algorithm of graph theory.pdf)
 
 ## Main content:
 
