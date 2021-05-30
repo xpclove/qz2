@@ -1,8 +1,6 @@
-# qz2 : Quantum simulation of Z2 gauge theory and its application in quantum algorithm of graph theory
+# Quantum simulation of Z2 gauge theory and its application in quantum algorithm of graph theory
 
-Chinese Title:
-      
-      Z2格点规范理论的量子模拟及其在图论量子算法中的应用
+# Z2格点规范理论的量子模拟及其在图论量子算法中的应用
 
 Ref：Ph.D. Dissertation 
       [《Quantum simulation of Z2 gauge theory and its application in quantum algorithm of graph theory》](doc/Z2_DocPaper.pdf).  Xiaopeng Cui. Fudan University. 2020-8   
