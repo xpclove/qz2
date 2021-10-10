@@ -13,7 +13,7 @@ Download Link: [PDF](doc/Z2_DocPaper.pdf)
             2. Topological quantum transition of Z2 gauge theory with the change of lattice topology
             3. Application of Z2 gauge theory quantum simulation in algorithm in Hamiltonian cycle problem（HCP) of graph theory
                   <<Sovling NP Graph Problem with Quantum Z2 Lattice Gauge Theory.pdf>>
-                  (doc/Sovling NP Graph Problem with Quantum Z2 Lattice Gauge Theory.pdf)
+                  (/public/Sovling NP Graph Problem with Quantum Z2 Lattice Gauge Theory.pdf)
             4. QBLAS：A quantum basic linear algebra and simulation library
             
 ## Abstract:
