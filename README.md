@@ -3,9 +3,14 @@
 # Z2格点规范理论的量子模拟及其在图论量子算法中的应用
 
 Ref：Ph.D. Dissertation 
-      [《Quantum simulation of Z2 gauge theory and its application in quantum algorithm of graph theory》](doc/Z2_DocPaper.pdf).  Xiaopeng Cui. Fudan University. 2020-8   
+      [《Quantum simulation of Z2 gauge theory and its application in quantum algorithm of graph theory》](doc/Z2_DocPaper.pdf).  Xiaopeng Cui. Fudan University. 2020-8
 
 Download Link: [PDF](doc/Z2_DocPaper.pdf)
+
+Ref：Ph.D. Dissertation 
+      [《Sovling NP Graph Problem with Quantum Z2 Lattice Gauge Theory》](doc/Sovling%20NP%20Graph%20Problem%20with%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf).  Xiaopeng Cui. Fudan University. 2020-8
+
+Download Link: [PDF](doc/Sovling%20NP%20Graph%20Problem%20with%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf)
 
 ## Main content:
 
