@@ -7,7 +7,7 @@ Ref：Ph.D. Dissertation
 
 Download Link: [PDF](doc/Z2_DocPaper.pdf)
 
-Ref：Ph.D. Dissertation 
+Ref：Ph.D. Dissertation(Chapter 4, English)
       [《Sovling NP Graph Problem with Quantum Z2 Lattice Gauge Theory》](doc/Sovling%20NP%20Graph%20Problem%20with%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf).  Xiaopeng Cui. Fudan University. 2020-8
 
 Application of quantum Z2 gauge theory quantum simulation in quantum algorithm of Hamiltonian cycle problem ( HCP ) in graph theory
