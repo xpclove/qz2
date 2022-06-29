@@ -11,9 +11,11 @@ Ref：Ph.D. Dissertation(Chapter 4, English)
       （1）[《Sovling NP Graph Problem with Quantum Z2 Lattice Gauge Theory》](doc/Sovling%20NP%20Graph%20Problem%20with%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf).  Xiaopeng Cui. Fudan University. 2020-8  
       （2）[《A Quantum Model for Sovling HCP and TSP Graph Problem Based on Quantum Z2 Lattice Gauge Theory.pdf》](public/A%20Quantum%20Model%20for%20Sovling%20HCP%20and%20TSP%20Graph%20Problem%20Based%20on%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf).  Xiaopeng Cui. 2022-6
       
-Application of quantum Z2 gauge theory quantum simulation in quantum algorithm of Hamiltonian cycle problem ( HCP ) or TSP in graph theory
+Application of quantum Z2 gauge theory quantum simulation in quantum algorithm of Hamiltonian cycle problem HCP or traveling salesman problem TSP in graph theory
 
-Download Link: [PDF](doc/Sovling%20NP%20Graph%20Problem%20with%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf)
+Download Link: [PDF 1](doc/Sovling%20NP%20Graph%20Problem%20with%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf)
+
+Download Link: [PDF 2](public/A%20Quantum%20Model%20for%20Sovling%20HCP%20and%20TSP%20Graph%20Problem%20Based%20on%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf))
 
 ## Main content:
 
