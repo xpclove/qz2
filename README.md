@@ -22,7 +22,7 @@ Download Link: [PDF 2](public/A%20Quantum%20Model%20for%20Sovling%20HCP%20and%20
             
 ## Abstract:
 <figure class="half">
-      <img src="res/fig/paper_abastract_en_1.jpg" width=600> <img src="res/fig/paper_abastract_en_2.jpg" width=600>
+      <img src="res/fig/paper_abastract_en_1.jpg" width=400> <img src="res/fig/paper_abastract_en_2.jpg" width=400>
 <figure>
 <!-- ![image](res/fig/paper_abastract_en_1.jpg)
 ![image](res/fig/paper_abastract_en_2.jpg) -->
