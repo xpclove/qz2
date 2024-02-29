@@ -6,9 +6,18 @@ Ref：Ph.D. Dissertation
       [《Quantum simulation of Z2 gauge theory and its application in quantum algorithm of graph theory》](doc/Z2_DocPaper.pdf).  Xiaopeng Cui. Fudan University. 2020-8  
 Download Link: [PDF](doc/Z2_DocPaper.pdf)
 
-Ref：Ph.D. Dissertation(Chapter 4)  
-      （1）[《Sovling NP Graph Problem with Quantum Z2 Lattice Gauge Theory》](doc/Sovling%20NP%20Graph%20Problem%20with%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf).  Xiaopeng Cui. Fudan University. 2020-8  
-      （2）[《A Quantum Model for Sovling HCP and TSP Graph Problem Based on Quantum Z2 Lattice Gauge Theory.pdf》](public/A%20Quantum%20Model%20for%20Sovling%20HCP%20and%20TSP%20Graph%20Problem%20Based%20on%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf).  Xiaopeng Cui. 2022-6  
+Ref：
+
+Ph.D. Dissertation(Chapter 2)  
+
+(1) [《Circuit-based digital adiabatic quantum simulation and pseudoquantum simulation as new approaches to lattice gauge theory》](https://link.springer.com/article/10.1007/JHEP08(2020)160)Xiaopeng Cui, ... , Yu Shi. Fudan University. 2020-8
+
+Ph.D. Dissertation(Chapter 4) 
+
+(1) [《Correspondence between the Hamiltonian cycle problem and the quantum lattice gauge theory》](https://iopscience.iop.org/article/10.1209/0295-5075/ad130b).  Xiaopeng Cui, Yu Shi. Fudan University. 2023-12；
+[《Sovling NP Graph Problem with Quantum Z2 Lattice Gauge Theory》](doc/Sovling%20NP%20Graph%20Problem%20with%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf).  Xiaopeng Cui. Fudan University. 2020-8  
+
+(2) [《A Quantum Model for Sovling HCP and TSP Graph Problem Based on Quantum Z2 Lattice Gauge Theory.pdf》](public/A%20Quantum%20Model%20for%20Sovling%20HCP%20and%20TSP%20Graph%20Problem%20Based%20on%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf).  Xiaopeng Cui. 2022-6  
 Application of quantum Z2 gauge theory quantum simulation in quantum algorithm of the shortest path problem, Hamiltonian cycle problem HCP or traveling salesman problem TSP in graph theory  
 Download Link: [PDF 1](doc/Sovling%20NP%20Graph%20Problem%20with%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf)
 Download Link: [PDF 2](public/A%20Quantum%20Model%20for%20Sovling%20HCP%20and%20TSP%20Graph%20Problem%20Based%20on%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf)
@@ -28,6 +37,8 @@ Download Link: [PDF 2](public/A%20Quantum%20Model%20for%20Sovling%20HCP%20and%20
 ## Abstract (Tex):
 <hr>
 \newcommand{\COAO}{$O ( \frac{1}{g_c^2} \sqrt{  \frac{1}{\varepsilon}  N_e^{3/2}( N_v^3 +  \frac{N_e}{g_c} } ) ) $}
+
+
 
 
 The chapter 1 describes the research background:$Z_2$ lattice gauge theory and the main research content of this paper. The $Z_2$ lattice guage theory is deeply related to gauge field theory of particle physics, topological quantum phase transition of condensed matter physics, long-range entanglement and topological quantum computation of quantum information, algorithm problem of graph theory, etc. The quantum simulation research of this theory is expected to promote the development of many fields.
