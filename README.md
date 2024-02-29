@@ -9,7 +9,8 @@ Download Link: [\[PDF\]](doc/Z2_DocPaper.pdf)
 Ref：
 
 Ph.D. Dissertation(Chapter 2)  
-(1) [《Circuit-based digital adiabatic quantum simulation and pseudoquantum simulation as new approaches to lattice gauge theory》](https://link.springer.com/article/10.1007/JHEP08(2020)160)Xiaopeng Cui, ... , Yu Shi. Fudan University. 2020-8 [\[PDF\]](public/JHEP_2020_Cui_Circuit-based%20digital%20adiabatic%20quantum%20simulation%20and%20pseudoquantum%20simulation%20as%20new%20approaches%20to%20lattice%20gauge%20theory.pdf)
+(1) [《Circuit-based digital adiabatic quantum simulation and pseudoquantum simulation as new approaches to lattice gauge theory》](https://link.springer.com/article/10.1007/JHEP08(2020)160)Xiaopeng Cui, ... , Yu Shi. Fudan University. 2020-8 [\[PDF\]](public/JHEP_2020_Cui_Circuit-based%20digital%20adiabatic%20quantum%20simulation%20and%20pseudoquantum%20simulation%20as%20new%20approaches%20to%20lattice%20gauge%20theory.pdf)  
+(2) [《Trotter errors in digital adiabatic quantum simulation of quantum ℤ2 lattice gauge theory》](https://www.semanticscholar.org/paper/Trotter-errors-in-digital-adiabatic-quantum-of-%E2%84%A42-Cui-Shi/464d01fb5580b6cf8f2f2c7a2621ca0c5292cefb)Xiaopeng Cui, Yu Shi. Fudan University. 2020-8 [\[PDF\]](public/Cui_2020_Trotter%20errors%20in%20digital%20adiabatic%20quantum%20simulation%20of%20quantum%20ℤ2%20lattice%20gauge%20theory.pdf)
 
 Ph.D. Dissertation(Chapter 4)  
 (1) [《Correspondence between the Hamiltonian cycle problem and the quantum lattice gauge theory》](https://iopscience.iop.org/article/10.1209/0295-5075/ad130b).  Xiaopeng Cui, Yu Shi. Fudan University. 2023-12 [\[PDF\]](public/Correspondence%20between%20the%20Hamiltonian%20cycle_EPL_2023.pdf);
