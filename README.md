@@ -14,7 +14,7 @@ Ph.D. Dissertation(Chapter 2)
 
 Ph.D. Dissertation(Chapter 4)  
 (1) [《Correspondence between the Hamiltonian cycle problem and the quantum lattice gauge theory》](https://iopscience.iop.org/article/10.1209/0295-5075/ad130b).  Xiaopeng Cui, Yu Shi. Fudan University. 2023-12 [\[PDF\]](public/Correspondence%20between%20the%20Hamiltonian%20cycle_EPL_2023.pdf);
-[《Sovling NP Graph Problem with Quantum Z2 Lattice Gauge Theory》](doc/Sovling%20NP%20Graph%20Problem%20with%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf).  Xiaopeng Cui. Fudan University. 2020-8 [\[PDF\]](public/Sovling%20NP%20Graph%20Problem%20with%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf)
+[《Sovling NP Graph Problem with Quantum Z2 Lattice Gauge Theory》](doc/Sovling%20NP%20Graph%20Problem%20with%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf).  Xiaopeng Cui. Fudan University. 2020-8 [\[PDF\]](public/Sovling%20NP%20Graph%20Problem%20with%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf)  
 (2) [《A Quantum Model for Sovling HCP and TSP Graph Problem Based on Quantum Z2 Lattice Gauge Theory.pdf》](public/A%20Quantum%20Model%20for%20Sovling%20HCP%20and%20TSP%20Graph%20Problem%20Based%20on%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf).  Xiaopeng Cui. 2022-6 [\[PDF\]](public/A%20Quantum%20Model%20for%20Sovling%20HCP%20and%20TSP%20Graph%20Problem%20Based%20on%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf)
 
 Application of quantum Z2 gauge theory quantum simulation in quantum algorithm of the shortest path problem, Hamiltonian cycle problem HCP or traveling salesman problem TSP in graph theory  
