@@ -17,11 +17,16 @@ Ph.D. Dissertation(Chapter 4)
 [《Sovling NP Graph Problem with Quantum Z2 Lattice Gauge Theory》](doc/Sovling%20NP%20Graph%20Problem%20with%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf).  Xiaopeng Cui. Fudan University. 2020-8 [\[PDF\]](public/Sovling%20NP%20Graph%20Problem%20with%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf)  
 (2) [《A Quantum Model for Sovling HCP and TSP Graph Problem Based on Quantum Z2 Lattice Gauge Theory.pdf》](public/A%20Quantum%20Model%20for%20Sovling%20HCP%20and%20TSP%20Graph%20Problem%20Based%20on%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf).  Xiaopeng Cui. 2022-6 [\[PDF\]](public/A%20Quantum%20Model%20for%20Sovling%20HCP%20and%20TSP%20Graph%20Problem%20Based%20on%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf)
 
-Application of quantum Z2 gauge theory quantum simulation in quantum algorithm of the shortest path problem, Hamiltonian cycle problem HCP or traveling salesman problem TSP in graph theory  
+## Extension Research
+
+（1）[《Speedup of high-order unconstrained binary optimization using quantum Z2
+ lattice gauge theory》](https://www.nature.com/articles/s42005-025-02072-7).   Biying Wang , Xiaopeng Cui, Yu Shi, Manhong Yung. Fudan University. 2023-12 [\[PDF\]](public/Speedup of high-order unconstrained binary optimization using quantum z2 lattice gauge theory.pdf);
+
+（2）Application of quantum Z2 gauge theory quantum simulation in quantum algorithm of the shortest path problem, Hamiltonian cycle problem HCP or traveling salesman problem TSP in graph theory  
 Download Link: [\[PDF 1\]](doc/Sovling%20NP%20Graph%20Problem%20with%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf)
 Download Link: [\[PDF 2\]](public/A%20Quantum%20Model%20for%20Sovling%20HCP%20and%20TSP%20Graph%20Problem%20Based%20on%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf)
 
-## Main content:  
+## Main content of Ph.D. Dissertation:  
             1. Quantum simulation of Z2 gauge theory
             2. Topological quantum transition of Z2 gauge theory with the change of lattice topology
             3. Application of Z2 gauge theory quantum simulation of quantum algorithm in Hamiltonian cycle problem（HCP) in graph theory
