@@ -20,13 +20,13 @@ Ph.D. Dissertation(Chapter 4)
 ## Extension Research
 
 （1）[《Speedup of high-order unconstrained binary optimization using quantum Z2
- lattice gauge theory》](https://www.nature.com/articles/s42005-025-02072-7).   Biying Wang , Xiaopeng Cui, Yu Shi, Manhong Yung. Fudan University. 2023-12 [\[PDF\]](public/Speedup of high-order unconstrained binary optimization using quantum z2 lattice gauge theory.pdf);
+ lattice gauge theory》](https://www.nature.com/articles/s42005-025-02072-7).   Biying Wang , Xiaopeng Cui, Yu Shi, Manhong Yung. Fudan University. 2023-12 [\[PDF\]](public/Speedup%20of%20high-order%20unconstrained%20binary%20optimization%20using%20quantum%20z2%20lattice%20gauge%20theory.pdf);
 
 （2）Application of quantum Z2 gauge theory quantum simulation in quantum algorithm of the shortest path problem, Hamiltonian cycle problem HCP or traveling salesman problem TSP in graph theory  
 Download Link: [\[PDF 1\]](doc/Sovling%20NP%20Graph%20Problem%20with%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf)
 Download Link: [\[PDF 2\]](public/A%20Quantum%20Model%20for%20Sovling%20HCP%20and%20TSP%20Graph%20Problem%20Based%20on%20Quantum%20Z2%20Lattice%20Gauge%20Theory.pdf)
 
-## Main content of Ph.D. Dissertation:  
+## Main Content of Ph.D. Dissertation:  
             1. Quantum simulation of Z2 gauge theory
             2. Topological quantum transition of Z2 gauge theory with the change of lattice topology
             3. Application of Z2 gauge theory quantum simulation of quantum algorithm in Hamiltonian cycle problem（HCP) in graph theory
