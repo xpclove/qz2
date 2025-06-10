@@ -25,7 +25,7 @@ Download Link: [\[PDF 2\]](public/A%20Quantum%20Model%20for%20Sovling%20HCP%20an
 ## Extension Research
 
 （1）[《Speedup of high-order unconstrained binary optimization using quantum Z2
- lattice gauge theory》](https://www.nature.com/articles/s42005-025-02072-7).   Biying Wang , Xiaopeng Cui*, Manhong Yung, Yu Shi. Communications Physics volume 8, Article number: 150 (2025).2025-4 [\[PDF\]](public/Speedup%20of%20high-order%20unconstrained%20binary%20optimization%20using%20quantum%20z2%20lattice%20gauge%20theory.pdf);
+ lattice gauge theory》](https://www.nature.com/articles/s42005-025-02072-7).   Biying Wang , Xiaopeng Cui*, ... , Manhong Yung, Yu Shi. Communications Physics volume 8, Article number: 150 (2025).2025-4 [\[PDF\]](public/Speedup%20of%20high-order%20unconstrained%20binary%20optimization%20using%20quantum%20z2%20lattice%20gauge%20theory.pdf);
 
  （2）[《Digital quantum simulation and pseudoquantum simulation
 of the Z2 gauge–Higgs model》](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.054508). Yiming Ding, Xiaopeng Cui, Yu Shi. Communications Physics volume 8, Article number: 150 (2025). Phys. Rev. D 105, 054508(2022). 2022-3 [\[PDF\]](public/https://scoap3-prod-backend.s3.cern.ch/media/files/68535/10.1103/PhysRevD.105.054508.pdf);
