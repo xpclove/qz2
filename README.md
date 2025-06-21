@@ -4,7 +4,7 @@
 
 Ref：Ph.D. Dissertation  
       [《Quantum simulation of Z2 lattice gauge theory and its application in quantum algorithm of graph theory》](doc/Quantum%20simulation%20of%20Z2%20lattice%20gauge%20theory%20and%20its%20application%20in%20quantum%20algorithm%20of%20graph%20theory.pdf).  Xiaopeng Cui. Fudan University. 2020-8  
-Download Link: [\[PDF\]](doc/Quantum%20simulation%20of%20Z2%20lattice%20gauge%20theory%20and%20its%20application%20in%20quantum%20algorithm%20of%20graph%20theory.pdf)
+Download Link: [\[PDF\]](https://raw.githubusercontent.com/xpclove/qz2/main/doc/Quantum%20simulation%20of%20Z2%20lattice%20gauge%20theory%20and%20its%20application%20in%20quantum%20algorithm%20of%20graph%20theory.pdf)
 
 Ref：
 
