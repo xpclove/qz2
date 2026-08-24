@@ -30,7 +30,7 @@ Download Link: [\[PDF 2\]](public/A%20Quantum%20Model%20for%20Sovling%20HCP%20an
  （2）[《Digital quantum simulation and pseudoquantum simulation
 of the Z2 gauge–Higgs model》](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.054508). Yiming Ding, Xiaopeng Cui, Yu Shi. Communications Physics volume 8, Article number: 150 (2025). Phys. Rev. D 105, 054508(2022). 2022-3 [\[PDF\]](public/https://scoap3-prod-backend.s3.cern.ch/media/files/68535/10.1103/PhysRevD.105.054508.pdf);
 
- （3）[《Z2 Lattice Gauge Theory on Non-trivial Topology and Its Quantum Simulation》](https://arxiv.org/abs/2601.16776) Jiaqi Hu, Shu Tian, Xiaopeng Cui, Rebing Wu, Man-Hong Yung, Yu Shi. Fudan University. arXiv:2601.16776. 2026-1 [\[PDF\]](public/Z2%20Lattice%20Gauge%20Theory%20on%20Non-trivial%20Topology%20and%20Its%20Quantum%20Simulation.pdf)
+ （3）[《ℤ2 lattice gauge theory on non-trivial topology and its quantum simulation》](https://doi.org/10.1007/JHEP07(2026)067) Jiaqi Hu, Shu Tian, Xiaopeng Cui, Rebing Wu, Man-Hong Yung, Yu Shi. Fudan University. J. High Energ. Phys. 2026, 67 (2026). 2026-7 [\[PDF\]](public/JHEP_2026_Cui_Z2%20lattice%20gauge%20theory%20on%20non-trivial%20topology%20and%20its%20quantum%20simulation.pdf)
 
 
 
